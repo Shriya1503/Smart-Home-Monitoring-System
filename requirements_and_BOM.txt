@@ -1,0 +1,49 @@
+# SYSTEM REQUIREMENTS AND SPECIFICATIONS
+
+# --------------------------------------------------------
+# SOFTWARE REQUIREMENTS
+# --------------------------------------------------------
+1. Operating System: Raspbian OS (64-bit) for Raspberry Pi [cite: 102]
+2. Development Environment: Arduino IDE [cite: 103]
+3. Backend & Visualization:
+   - Node-RED [cite: 104]
+   - InfluxDB [cite: 105]
+   - Grafana [cite: 106]
+4. Mobile App Development: MIT App Inventor [cite: 107]
+5. Python Dependencies (for Phase 1 on Raspberry Pi):
+   - RPi.GPIO
+   - spidev
+   - lib_nrf24
+
+# --------------------------------------------------------
+# HARDWARE REQUIREMENTS
+# --------------------------------------------------------
+
+# Microcontrollers & Boards:
+1. Raspberry Pi 3B+ [cite: 109]
+2. Arduino UNO [cite: 110]
+3. ESP-32 Development Board [cite: 111]
+4. ESP-8266 (NodeMCU) [cite: 112]
+
+# Communication Modules:
+5. M177 NRF24L01 2.4GHz Radio Transceiver [cite: 113]
+6. 3.3V Adapter Board for NRF24L01 [cite: 114]
+
+# Sensors:
+7. DHT22 (Digital Temperature/Humidity Sensor) [cite: 123]
+8. HC-SR501 (PIR Motion Sensor) [cite: 124]
+9. RC522 SPI S50 (RFID Reader) [cite: 120]
+
+# Actuators & Security:
+10. Solenoid Door Lock [cite: 121]
+11. 1-Channel Relay (5V) [cite: 127]
+12. DC Fan (controlled via ESP32) [cite: 817]
+13. LEDs (Generic) [cite: 116]
+
+# Power & Connectivity:
+14. RFID Tags / Cards [cite: 119]
+15. 12V Power Adapter [cite: 118]
+16. 3.7V 500mAh LiPo Battery (Single Cell) [cite: 126]
+17. USB Cable (Type B) [cite: 115]
+18. Breadboard [cite: 117]
+19. Jumper Wires (Male-Male, Male-Female, Female-Female) [cite: 125]
